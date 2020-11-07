@@ -7,3 +7,5 @@
 **Programming**: Python (Scikit Learn,Pandas,Numpy,Seaborn,NLTK,BeautifulSoup,Matplotlib,Gensim,TensorFlow,PySpark), SQL, Java
 
 **Tools**: Tableau, Linux, Anaconda Distribution, Jupyter Notebook, Google Colab, Spark, Hive
+
+**Database**: MySQL, Hadoop, Teradata
